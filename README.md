@@ -1,5 +1,15 @@
 # douban-top250
-Python实现豆瓣电影TOP250抓取，然后对爬取的数据进行分析。\
+Python实现豆瓣电影TOP250抓取，然后对爬取的数据进行分析。
+
+## 准备工作
+
+安装 `conda` + `jupyter` + `notebook`, 可以查看这篇[教程](https://zhuanlan.zhihu.com/p/33105153)
+
+安装完后, 我本地出现了新建文件访问后 **500** 错误, 用以下命令解决即可
+
+```sh
+pip install --upgrade --user nbconvert
+```
 
 ## 豆瓣电影TOP250抓取
 本部分包括：\
