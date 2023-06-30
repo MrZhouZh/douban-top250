@@ -1,6 +1,5 @@
 # douban-top250
 Python实现豆瓣电影TOP250抓取，然后对爬取的数据进行分析。\
-**详细分析见个人博客：[豆瓣电影TOP250抓取](https://blog.csdn.net/dta0502/article/details/81811931)**
 
 ## 豆瓣电影TOP250抓取
 本部分包括：\
